@@ -14,3 +14,6 @@ in the text present below it.Illustration of header are present below.</h2>
 
 <h2>There are six level of headings present in a markdown file.For creating a markdown file we 
 use extension .md or .markdown.</h2>
+
+<h1>Adding image to markdown file.</h1>
+<img src="https://octodex.github.com/images/yaktocat.png", alt="catimage"></img>
