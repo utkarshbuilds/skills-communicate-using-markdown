@@ -17,3 +17,4 @@ use extension .md or .markdown.</h2>
 
 <h1>Adding image to markdown file.</h1>
 <img src="https://octodex.github.com/images/yaktocat.png", alt="catimage"></img>
+
